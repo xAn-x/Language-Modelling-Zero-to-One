@@ -47,4 +47,14 @@ RNNs are designed to handle sequential data, allowing the model to maintain a me
 ### Loss:
 ![rnn_loss](https://github.com/user-attachments/assets/e082b7d3-122f-4ab5-ac56-1981402b7353)
 
+## Transformer Model
+Used the Decoder part of Transformers model for text-generation
+
+| **Before Learning** | **After Learning** |
+|---------------------|--------------------|
+| <img height="150" alt="rnn_generation_without_training" src="https://github.com/user-attachments/assets/c1ba1b8a-2093-4b54-8c39-fc94d7b8dc04"> |  ![transformer-generated-text](https://github.com/user-attachments/assets/3d785aea-a509-4f99-b008-ffcc9017a74b) |
+
+### Loss:
+![transformer-loss](https://github.com/user-attachments/assets/8de494e1-ae31-4fd4-b340-a417f951bc04)
+
 ---
